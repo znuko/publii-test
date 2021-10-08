@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>test2</title>
+    <link href="https://znuko.github.io/publii-test/feed.xml" rel="self" />
+    <link href="https://znuko.github.io/publii-test" />
+    <updated>1970-01-01T09:00:00+09:00</updated>
+    <author>
+        <name>unko</name>
+    </author>
+    <id>https://znuko.github.io/publii-test</id>
+
+</feed>
