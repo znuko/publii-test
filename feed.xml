@@ -3,10 +3,54 @@
     <title>test2</title>
     <link href="https://znuko.github.io/publii-test/feed.xml" rel="self" />
     <link href="https://znuko.github.io/publii-test" />
-    <updated>1970-01-01T09:00:00+09:00</updated>
+    <updated>2021-10-08T16:33:50+09:00</updated>
     <author>
         <name>unko</name>
     </author>
     <id>https://znuko.github.io/publii-test</id>
 
+    <entry>
+        <title>ふたつめ</title>
+        <author>
+            <name>unko</name>
+        </author>
+        <link href="https://znuko.github.io/publii-test/hutatume.html"/>
+        <id>https://znuko.github.io/publii-test/hutatume.html</id>
+
+        <updated>2021-10-08T16:33:50+09:00</updated>
+            <summary>
+                <![CDATA[
+                    おぎゃあああああああああああああ はにゃ？
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>おぎゃあああああああああああああ</p>
+<p>はにゃ？</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>hello publii</title>
+        <author>
+            <name>unko</name>
+        </author>
+        <link href="https://znuko.github.io/publii-test/hello-publii.html"/>
+        <id>https://znuko.github.io/publii-test/hello-publii.html</id>
+
+        <updated>2021-10-08T16:25:00+09:00</updated>
+            <summary>
+                <![CDATA[
+                    ほげほへ てすてす。 どない？ですか？ 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>ほげほへ</p>
+<p>てすてす。</p>
+<p><del>どない？</del>ですか？</p>
+
+            ]]>
+        </content>
+    </entry>
 </feed>
